@@ -1,0 +1,5 @@
+{
+  "name": "XYZ Project Management Platform",
+  "description": "A comprehensive platform for clients, vendors, and administrators to manage projects, communication, and meetings seamlessly. Features role-based dashboards, project timelines, messaging, and video call scheduling.",
+  "requestFramePermissions": []
+}
